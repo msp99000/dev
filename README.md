@@ -91,8 +91,6 @@ If you followed the steps correctly, your terminal should look something like th
 <img src="./assets/images/terminal.png" alt="Example Image" width="680" height="">
 
 
-![Oh My Zsh + powerlevel10k Terminal Image](./assets/images/terminal.png)
-
 ## Tmux
 **Tmux** revolutionizes workflow by transforming the terminal into a powerful multitasking environment. It enables users to split, organize, and manage multiple terminal sessions within a single window. Combining **Tmux** with Neovim elevates productivity to the next level, offering seamless multitasking between code editing and terminal operations, creating a dynamic duo that empowers developers to achieve more with efficiency and control.
 
