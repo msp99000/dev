@@ -88,7 +88,7 @@ You can install the [plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) t
 
 If you followed the steps correctly, your terminal should look something like this
 
-<img src="./assets/images/terminal.png" alt="Example Image" width="500" height="">
+<img src="./assets/images/terminal.png" alt="Example Image" width="800" height="">
 
 
 ![Oh My Zsh + powerlevel10k Terminal Image](./assets/images/terminal.png)
